@@ -74,19 +74,19 @@ await channel.send({
 
 ### Layout Components
 - [Container](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components%2Fcontainer%2FContainer.md) — The main "card" wrapper with optional accent color
-- [Section](https://github.com/Ddeveloper-sr/Components-v2-guide/tree/main/components/section) — Text + accessory (button or thumbnail) side-by-side
-- [Separator](./components/separator/README.md) — Visual divider or spacing
-- [Action Row](./components/action-row/README.md) — Holds interactive components (buttons/selects)
+- [Section](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/section/section.md) — Text + accessory (button or thumbnail) side-by-side
+- [Separator](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/seperator/seperator.md) — Visual divider or spacing
+- [Action Row](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/action-row/Action-row.md) — Holds interactive components (buttons/selects)
 
 ### Content Components
-- [Text Display](./components/text-display/README.md) — Markdown text (replaces message `content`)
-- [Media Gallery](./components/media-gallery/README.md) — Grid of 1–10 images/videos
-- [File](./components/file/README.md) — Explicitly display an attached file
-- [Thumbnail](./components/thumbnail/README.md) — Small image used as accessory in Sections
+- [Text Display](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/text-display/text-display.md) — Markdown text (replaces message `content`)
+- [Media Gallery](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/media-gallery/media.md) — Grid of 1–10 images/videos
+- [File](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/File/file.md) — Explicitly display an attached file
+- [Thumbnail](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/thumbnail/thumbnail.md) — Small image used as accessory in Sections
 
 ### Interactive Components (used inside layouts)
 - Buttons, String Select, User Select, Role Select, Channel Select, Mentionable Select
-- See [Action Row](./components/action-row/README.md) for placement rules
+- See [Action Row](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components/action-row/Action-row.md) for placement rules
 
 ### Modals (still use some V2 patterns)
 - [Modals with Label + Components](./modals/README.md)
@@ -103,9 +103,9 @@ Jump into the [Getting Started guide](./getting-started/README.md) for your firs
 
 Ready-to-run examples:
 
-- [Basic Message](./examples/basic-message/README.md)
-- [Rich User Profile Card](./examples/rich-profile/README.md)
-- [Media Showcase with Gallery + Files](./examples/media-showcase/README.md)
+- [Basic Message](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/examples/basic-message/basic-message.md)
+- [Rich User Profile Card](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/examples/rich-profile/profile-card.md)
+- [Media Showcase with Gallery + Files](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/examples/media-showcase/media-showcase.md)
 
 ---
 
