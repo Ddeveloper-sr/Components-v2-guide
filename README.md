@@ -74,7 +74,7 @@ await channel.send({
 
 ### Layout Components
 - [Container](https://github.com/Ddeveloper-sr/Components-v2-guide/blob/main/components%2Fcontainer%2FContainer.md) — The main "card" wrapper with optional accent color
-- [Section](./components/section/README.md) — Text + accessory (button or thumbnail) side-by-side
+- [Section](https://github.com/Ddeveloper-sr/Components-v2-guide/tree/main/components/section) — Text + accessory (button or thumbnail) side-by-side
 - [Separator](./components/separator/README.md) — Visual divider or spacing
 - [Action Row](./components/action-row/README.md) — Holds interactive components (buttons/selects)
 
