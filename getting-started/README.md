@@ -142,7 +142,7 @@ Run your bot, type `!v2demo` in a channel, and enjoy your first modern Discord m
   - [Text Display](../components/text-display/README.md)
   - [Container](../components/container/README.md)
   - [Section](../components/section/README.md)
-- See [Full Examples](../examples/)
+- See [Full Examples](https://github.com/Ddeveloper-sr/Components-v2-guide/tree/main/examples)
 - Learn [Best Practices](../best-practices/README.md)
 - Read the [Migration Guide](../migration-from-embeds/README.md) if you have existing embed code
 
